@@ -9,6 +9,7 @@ Funcion Registrar Usurio
 	Escribir "telefono"
 	Leer telefono;
 	Fin funcion
+<<<<<<< HEAD
 	
 Funcion Crear Playlist
 	Definicion de variables
@@ -16,3 +17,16 @@ Funcion Crear Playlist
 	Escribir "nombre";
 	Leer nombre;
 	Fin funcion
+=======
+
+--INICIO LOGIN--
+-PASO 1
+	ingresar usuario
+	ingresar contraseña
+	botón de submit
+-PASO 2
+	verificar datos en base de datos
+	si son correctos los datos, mostrar perfil
+	si son incorrectos, volver al PASO 1 con mensaje de errorg
+--FIN LOGIN--
+>>>>>>> 81d274a61c4ea13b267912b2e6662032dac19388
