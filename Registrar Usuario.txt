@@ -1,0 +1,12 @@
+Funcion Registrar Usurio
+	Definicion de variables
+	Char nombre, apellido; 
+	Int telefono;
+	Escribir "ingrese nombre";
+	Leer nombre;
+	Escribir "ingrese apellido";
+	Leer apellido;
+	Escribir "telefono"
+	Leer telefono;
+	Fin funcion
+	
