@@ -20,3 +20,13 @@ Funcion Registrar Usurio
 	si son correctos los datos, mostrar perfil
 	si son incorrectos, volver al PASO 1 con mensaje de errorg
 --FIN LOGIN--
+
+--INICIO BUSCARCANCIÓN--
+-PASO 1
+	ingresar nombre de la canción, género, artista o país
+	botón de submit
+-PASO 2
+	buscar canción (según el tipo de búsqueda) en base de datos
+	si encuentra la canción, la muestra en pantalla a disposición
+	si no la encuentra, muestra un mensaje donde indica que no la encontró
+--FIN BUSCARCANCIÓN--
