@@ -10,3 +10,9 @@ Funcion Registrar Usurio
 	Leer telefono;
 	Fin funcion
 	
+Funcion Crear Playlist
+	Definicion de variables
+	Char nombre;
+	Escribir "nombre";
+	Leer nombre;
+	Fin funcion
