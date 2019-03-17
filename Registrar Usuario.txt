@@ -9,6 +9,15 @@ Funcion Registrar Usurio
 	Escribir "telefono"
 	Leer telefono;
 	Fin funcion
+<<<<<<< HEAD
+	
+Funcion Crear Playlist
+	Definicion de variables
+	Char nombre;
+	Escribir "nombre";
+	Leer nombre;
+	Fin funcion
+=======
 
 --INICIO LOGIN--
 -PASO 1
@@ -20,6 +29,7 @@ Funcion Registrar Usurio
 	si son correctos los datos, mostrar perfil
 	si son incorrectos, volver al PASO 1 con mensaje de errorg
 --FIN LOGIN--
+<<<<<<< HEAD
 
 --INICIO BUSCARCANCIÓN--
 -PASO 1
@@ -30,3 +40,6 @@ Funcion Registrar Usurio
 	si encuentra la canción, la muestra en pantalla a disposición
 	si no la encuentra, muestra un mensaje donde indica que no la encontró
 --FIN BUSCARCANCIÓN--
+=======
+>>>>>>> 81d274a61c4ea13b267912b2e6662032dac19388
+>>>>>>> ae56600baab0b9554f91b2d37009f7f0dbb81b30
