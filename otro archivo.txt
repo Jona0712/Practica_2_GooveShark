@@ -8,6 +8,7 @@
 	si toca delante de donde va el transcurso, la canción se adelanta
 --FIN REPRODUCIR--
 
+<<<<<<< HEAD
 --INICIO REPRODUCIR NO ALEATORIA--
 -PASO 1
 	Cargar cancion
@@ -17,3 +18,13 @@
 	si presiona el boton anterior, debe de verificar si existe canción previa en la lista de reproducción
 	si presiona el boton siguiente, debe de verificar si existe una canción siguiente en la lista en orden de la playlist
 --FIN REPRODUCIR NO ALEATORIA--
+=======
+--INICIO ALEATORIO--
+-PASO 1
+	Cargar lista de canciones
+	tomar el tiempo de duracion
+-PASO 2
+	Si toca siguiente cancion se elegira aleatoriamente la cancion de la lista 
+	Si toca atras se reproducira la cancion anterior ya que aleatorio solo funciona para adelante
+--FIN ALEATORIO--
+>>>>>>> a9ca27f7f2276d49fb3afab00206bd46042cf086
