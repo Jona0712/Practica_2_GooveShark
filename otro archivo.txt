@@ -1,0 +1,9 @@
+--INICIO REPRODUCIR--
+-PASO 1
+	Cargar cancion
+	tomar el tiempo de duración
+-PASO 2
+	mostrar barra de transición de tiempo
+	si toca antes de donde va el transcurso, la canción retrocede
+	si toca delante de donde va el transcurso, la canción se adelanta
+--FIN REPRODUCIR--
