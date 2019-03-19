@@ -10,6 +10,9 @@ Funcion Registrar Usurio
 	Leer telefono;
 	Fin funcion
 <<<<<<< HEAD
+//se verificón que la función registrar usuario y es completamente funcional 200714558
+--Comentario
+Se verifico la funcion exitosamente 201314340
 	
 Funcion Crear Playlist
 	Definicion de variables
@@ -18,7 +21,7 @@ Funcion Crear Playlist
 	Leer nombre;
 	Fin funcion
 =======
-//se verificón que la función registrar usuario y es completamente funcional 200714558
+//se verificón que la función crear playlist y es completamente funcional 200714558
 
 --INICIO LOGIN--
 -PASO 1
