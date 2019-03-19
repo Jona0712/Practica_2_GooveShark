@@ -33,3 +33,6 @@ Se ha revisado completo exitosamente 201314340
 	si se le dá al anterior revisa que exista una canción previa, en la lista, a la que se está reproduciendo
 	si se le da al de siguiente, revisa que exista una canción siguiente verifica en la lista que exista una canción después de la que se está reproduciendo
 --FIN REPRODUCCION NO ALEATORIO--
+-- Comentario
+Se ha revisado completo exitosamente 201314340
+// la funcion no requiere ninguna corrección 200714558
