@@ -7,3 +7,13 @@
 	si toca antes de donde va el transcurso, la canción retrocede
 	si toca delante de donde va el transcurso, la canción se adelanta
 --FIN REPRODUCIR--
+
+--INICIO REPRODUCIR NO ALEATORIA--
+-PASO 1
+	Cargar cancion
+	tomar el tiempo de duración
+-PASO 2
+	mostrar botones de anterior y siguiente
+	si presiona el boton anterior, debe de verificar si existe canción previa en la lista de reproducción
+	si presiona el boton siguiente, debe de verificar si existe una canción siguiente en la lista en orden de la playlist
+--FIN REPRODUCIR NO ALEATORIA--
