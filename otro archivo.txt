@@ -9,6 +9,7 @@
 --FIN REPRODUCIR--
 --Comentario
 Se ha revisado completo exitosamente 201314340
+// la función reproducir no necesita de ninguna corrección 200714558
 
 --INICIO ALEATORIO--
 -PASO 1
@@ -21,3 +22,14 @@ Se ha revisado completo exitosamente 201314340
 
 -- Comentario
 Se ha revisado completo exitosamente 201314340
+// se revisó la función y no requiere de correcciones 200714558
+
+--INICIO REPRODUCCION NO ALEATORIO--
+-PASO 1
+	cargar canción
+	tomar el tiempo de duración
+-PASO 2
+	se mostrarán botones de siguiente y anterior
+	si se le dá al anterior revisa que exista una canción previa, en la lista, a la que se está reproduciendo
+	si se le da al de siguiente, revisa que exista una canción siguiente verifica en la lista que exista una canción después de la que se está reproduciendo
+--FIN REPRODUCCION NO ALEATORIO--
