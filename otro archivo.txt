@@ -7,3 +7,12 @@
 	si toca antes de donde va el transcurso, la canción retrocede
 	si toca delante de donde va el transcurso, la canción se adelanta
 --FIN REPRODUCIR--
+
+--INICIO ALEATORIO--
+-PASO 1
+	Cargar lista de canciones
+	tomar el tiempo de duracion
+-PASO 2
+	Si toca siguiente cancion se elegira aleatoriamente la cancion de la lista 
+	Si toca atras se reproducira la cancion anterior ya que aleatorio solo funciona para adelante
+--FIN ALEATORIO--
