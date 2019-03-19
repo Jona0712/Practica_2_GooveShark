@@ -22,6 +22,8 @@ Funcion Crear Playlist
 	Fin funcion
 =======
 //se verificón que la función crear playlist y es completamente funcional 200714558
+--Comentario
+Se verifico la funcion exitosamente 201314340
 
 --INICIO LOGIN--
 -PASO 1
